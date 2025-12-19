@@ -1,0 +1,44 @@
+nav{
+    display: flex;
+    justify-content: flex-end
+    background-color: lightgray;
+    color: black;
+    padding: 10px;
+    gap: 50px;
+}
+body{
+    background-image: url(mosque.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    text-align: center;
+    color: blue;
+    border-image: round;
+}
+#home{
+    font-size: 20px;
+    font-weight: bold;
+    cursor: pointer;
+color: blue;
+    
+}
+#about{
+    font-size: 20px;
+    font-weight: bold;
+    cursor: pointer;
+    color: blue;
+}
+#services{
+    font-size: 20px;
+    font-weight: bold;
+    cursor: pointer;
+    color: blue;
+}
+#contact{
+    font-size: 20px;
+    font-weight: bold;
+    cursor: pointer;
+    color: blue;
+}
+
+
